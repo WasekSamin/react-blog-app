@@ -134,8 +134,8 @@ EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = "wasek.samin47@gmail.com"    # My email name here
-EMAIL_HOST_PASSWORD = "@#$Iamdevil129047"    # My email password here
+EMAIL_HOST_USER = ""    # My email name here
+EMAIL_HOST_PASSWORD = ""    # My email password here
 
 # For nude detection
 NUDE_DETECTED = False
